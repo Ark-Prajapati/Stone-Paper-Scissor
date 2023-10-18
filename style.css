@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color: #FA6166;
+    color: #FCE77E
+}
+
+h1{
+    font-size: 300%;
+}
+
+p{
+    font-size: 150%;
+    text-decoration: underline;
+}
+
+button{
+    background-color: #FCE77E;
+    color: #FA6166;
+    border: none;
+    border-radius: 50px;
+    font-size: 20px;
+    padding: 10px 20px;
+}
+
+h3{
+    font-size: 170%;
+}
+
+
